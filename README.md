@@ -1,6 +1,6 @@
 # Welcome to OpenStudio! :)
 
-*This program only runs on **Linux/macOS***
+*This program only runs on **Linux/macOS/{windows with some tricks}***
 
 To setup please follow the instructions:
 
