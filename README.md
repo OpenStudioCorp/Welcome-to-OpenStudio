@@ -1,5 +1,30 @@
-# Welcome-to-OpenStudio
+# Welcome to OpenStudio! :)
 
-welcome to open studio!
+*This program only runs on **Linux/macOS***
 
-a simple repo containing everyones cool welcome project showing off what skills they can do!
+To setup please follow the instructions:
+
+```
+Install Homebrew
+
+Run brew install raylib
+
+Install pkg-config
+
+Run brew install pkg-config
+
+Install make
+
+Run brew install make
+
+cd into the root directory.
+
+Run make
+
+Once it has built, then run:
+
+make run
+
+```
+
+Thank you and welcome to OpenStudio :)
